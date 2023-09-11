@@ -11,7 +11,7 @@ sudo apt-get install \
     ca-certificates \
     curl \
     gnupg \
-    lsb-release
+    lsb-releas
 
 
 sudo mkdir -p /etc/apt/keyrings
